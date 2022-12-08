@@ -1,4 +1,4 @@
-![]
+![Header](https://github.com/elizaveta-bondar/elizaveta-bondar/blob/main/img/pink_background.jpg)
 
 # About me
 
