@@ -24,7 +24,8 @@ I am incredibly passionate about software testing and expand my knowledge in thi
 ![](https://img.shields.io/badge/-<SoapUI>-FBB0C4?style=for-the-badge)
 ![](https://img.shields.io/badge/-<Mantis>-FBB0C4?style=for-the-badge)
 ![](https://img.shields.io/badge/-<Jira>-FBB0C4?style=for-the-badge&logo=jira&logoColor=111)
-![](https://img.shields.io/badge/-<TestRail>-FBB0C4?style=for-the-badge&logo=TestRail&logoColor=111)![](https://img.shields.io/badge/-<TestLink>-FBB0C4?style=for-the-badge&logo=TestRail&logoColor=111)
+![](https://img.shields.io/badge/-<TestRail>-FBB0C4?style=for-the-badge&logo=TestRail&logoColor=111)
+![](https://img.shields.io/badge/-<TestLink>-FBB0C4?style=for-the-badge&logo=TestRail&logoColor=111)
 
 # Follow Me
 
