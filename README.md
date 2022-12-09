@@ -16,16 +16,16 @@ I am incredibly passionate about software testing and expand my knowledge in thi
 
 # Technologies and tools
 
-![](https://img.shields.io/badge/-HTML/CSS-FBB0C4?style=for-the-badge&logo=HTML5&logoColor=111)
-![](https://img.shields.io/badge/-JavaScript-FBB0C4?style=for-the-badge&logo=JavaScript&logoColor=111)
-![](https://img.shields.io/badge/-SQL-FBB0C4?style=for-the-badge&logo=mysql&logoColor=111)
-![](https://img.shields.io/badge/-GitHub-FBB0C4?style=for-the-badge&logo=github&logoColor=111)
-![](https://img.shields.io/badge/-Postman-FBB0C4?style=for-the-badge&logo=postman&logoColor=111)
-![](https://img.shields.io/badge/-SoapUI-FBB0C4?style=for-the-badge)
-![](https://img.shields.io/badge/-Mantis-FBB0C4?style=for-the-badge)
-![](https://img.shields.io/badge/-Jira-FBB0C4?style=for-the-badge&logo=jira&logoColor=111)
-![](https://img.shields.io/badge/-TestRail-FBB0C4?style=for-the-badge&logo=TestRail&logoColor=111)
-![](https://img.shields.io/badge/-TestLink-FBB0C4?style=for-the-badge&logo=TestRail&logoColor=111)
+![](https://img.shields.io/badge/-HTML/CSS-FEDBE5?style=for-the-badge&logo=HTML5&logoColor=111)
+![](https://img.shields.io/badge/-JavaScript-FEDBE5?style=for-the-badge&logo=JavaScript&logoColor=111)
+![](https://img.shields.io/badge/-SQL-FEDBE5?style=for-the-badge&logo=mysql&logoColor=111)
+![](https://img.shields.io/badge/-GitHub-FEDBE5?style=for-the-badge&logo=github&logoColor=111)
+![](https://img.shields.io/badge/-Postman-FEDBE5?style=for-the-badge&logo=postman&logoColor=111)
+![](https://img.shields.io/badge/-SoapUI-FEDBE5?style=for-the-badge)
+![](https://img.shields.io/badge/-Mantis-FEDBE5?style=for-the-badge)
+![](https://img.shields.io/badge/-Jira-FEDBE5?style=for-the-badge&logo=jira&logoColor=111)
+![](https://img.shields.io/badge/-TestRail-FEDBE5?style=for-the-badge&logo=TestRail&logoColor=111)
+![](https://img.shields.io/badge/-TestLink-FEDBE5?style=for-the-badge&logo=TestRail&logoColor=111)
 
 # Follow Me
 
